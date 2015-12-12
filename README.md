@@ -19,7 +19,7 @@ If you would like to keep up with our progress you can Watch this project on Git
 Contributing
 ---------------------
 
-We are not accepting contributions at this time. This will change once a functional prototype is completed.
+We are not accepting contributions at this time. This will change once a functional prototype is completed. Thanks for your understanding!
 
 Build Status
 ---------------------
