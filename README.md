@@ -1,10 +1,10 @@
 # TTS Thermaltech Systems Inc. OpenFeeder Project
 
-Design: eFeeder_V1
+Design: eFeeder_V0.0.1
 
 Designer: Robert S. Walter
 
-Open Source Pick and Place Electronic Feeder Hardware / Software, Verison #1.0.0 (alpha)
+Open Source Pick and Place Electronic Feeder Hardware / Software, Verison #0.0.1 (alpha)
 
 Introduction
 ---------------------
